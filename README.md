@@ -1,16 +1,5 @@
 # 👋 Hi, I'm Sevan
 
-🎓 **3rd-year Computer Science BUT student** in **Metz**,  
-with a strong interest in **software engineering**, **computer science fundamentals**, and **systematic problem solving**.
-
-🎯 **Goal**: join an **engineering school** to deepen my skills in  
-**software design**, **algorithms**, **systems**, and **project engineering**.
-
-💡 I enjoy working on projects that combine **technical rigor**,  
-**clean architecture**, and **well-designed user interfaces**.
-
----
-
 ## 📊 GitHub Stats
 
 ![Sevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sevan-Dev&show_icons=true&theme=tokyonight&hide_border=true)
